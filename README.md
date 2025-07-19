@@ -1,8 +1,10 @@
 # Face-recognition-project
 A real-time face recognition system using Python and OpenCV. Includes intelligent alert modes for exams and security using Telegram integration.
+## Important installations:
+- Git -- Windows: https://git-scm.com/download/win and click on "Click here to download" , Ubuntu: sudo apt install git , Mac: brew install git
+- open the terminal in the folder where u unzipped it and run "pip install -r requirements.txt"
 ## How to use:
 - Download the zip and extract it in ur pc
-- open the terminal in the folder where u unzipped it and run "pip install -r requirements.txt"
 - Create ur own bot using the t.me/BotFather and get the bot token
 - Go to t.me/userinfobot and get ur chat id
 - Open the app.py and replace the Your_Bot_Token_Here and Your_Chat_ID_Here in the code with ur actual Bot token and chat id
