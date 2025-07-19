@@ -1,0 +1,7 @@
+dlib-bin==19.24.6
+opencv-python
+numpy
+face_recognition --no-build-isolation --no-deps
+git+https://github.com/ageitgey/face_recognition_models
+Pillow
+python-telegram-bot==20.8
